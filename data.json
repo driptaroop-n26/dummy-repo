@@ -1,0 +1,105 @@
+{
+  "total": 5,
+  "content": [
+    {
+      "internalId": "5d8098a25a49cd1146f2fecb",
+      "externalId": "5d8098a24e7dc29471d1db92",
+      "status": "NEW",
+      "createdAt": "Mon Nov 24 2014 12:18:18 GMT+0000",
+      "locale": "de",
+      "creditor": {
+        "name": "Lea Valenzuela"
+      },
+      "customer": {
+        "name": "Queen Cabrera",
+        "address": "501 Navy Walk, Waikele, 1319",
+        "dob": "Thu Apr 18 2019 19:54:49 GMT+0000"
+      },
+      "representative": {
+        "name": "Ware Ramos"
+      },
+      "documentType": "GARNISHMENT",
+      "originalAmount": "2770.26"
+    },
+    {
+      "internalId": "5d8098a27192487f1983d50d",
+      "externalId": "5d8098a2afa58d597ac9ad36",
+      "status": "CLOSED",
+      "createdAt": "Mon Mar 23 2015 23:13:38 GMT+0000",
+      "locale": "en",
+      "creditor": {
+        "name": "Fitzpatrick Knox"
+      },
+      "customer": {
+        "name": "Lakisha Mcfarland",
+        "address": "365 Moore Street, Chalfant, 7791",
+        "dob": "Sun Feb 21 2016 03:54:04 GMT+0000"
+      },
+      "representative": {
+        "name": "Patrica Lynn"
+      },
+      "documentType": "GARNISH",
+      "originalAmount": "2496.82"
+    },
+    {
+      "internalId": "5d8098a25983a276eadb4504",
+      "externalId": "5d8098a2b18409cffa72aa26",
+      "status": "NEW",
+      "createdAt": "Wed Aug 20 2014 12:38:27 GMT+0000",
+      "locale": "en",
+      "creditor": {
+        "name": "Peck Kaufman"
+      },
+      "customer": {
+        "name": "Pansy Dotson",
+        "address": "941 Jackson Court, Warsaw, 2560",
+        "dob": "Fri Apr 10 2015 23:43:17 GMT+0000"
+      },
+      "representative": {
+        "name": "Vargas West"
+      },
+      "documentType": "GARNISHMENT",
+      "originalAmount": "2825.48"
+    },
+    {
+      "internalId": "5d8098a22c7979039860d7f8",
+      "externalId": "5d8098a2d39eab3468a61c08",
+      "status": "NEW",
+      "createdAt": "Sun Aug 19 2018 20:14:55 GMT+0000",
+      "locale": "en",
+      "creditor": {
+        "name": "Alexandria Hahn"
+      },
+      "customer": {
+        "name": "Schroeder Contreras",
+        "address": "542 Division Avenue, Cotopaxi, 6603",
+        "dob": "Thu Feb 13 2014 11:54:22 GMT+0000"
+      },
+      "representative": {
+        "name": "Chelsea Duffy"
+      },
+      "documentType": "GARNISH",
+      "originalAmount": "2211.76"
+    },
+    {
+      "internalId": "5d8098a21591a9126a8e1617",
+      "externalId": "5d8098a202af64ef99528fbe",
+      "status": "ON_HOLD",
+      "createdAt": "Sun Feb 04 2018 15:26:23 GMT+0000",
+      "locale": "de",
+      "creditor": {
+        "name": "Alissa Patterson"
+      },
+      "customer": {
+        "name": "Mays Fuentes",
+        "address": "493 Moultrie Street, Glenshaw, 5931",
+        "dob": "Sun Mar 01 2015 14:51:05 GMT+0000"
+      },
+      "representative": {
+        "name": "Mullins Ayers"
+      },
+      "documentType": "GARNISH",
+      "originalAmount": "2540.07"
+    }
+  ]
+}
